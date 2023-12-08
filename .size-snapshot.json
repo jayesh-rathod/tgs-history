@@ -1,0 +1,50 @@
+{
+  "esm/history.js": {
+    "bundled": 37698,
+    "minified": 16781,
+    "gzipped": 4323,
+    "treeshaked": {
+      "rollup": {
+        "code": 164,
+        "import_statements": 88
+      },
+      "webpack": {
+        "code": 1214
+      }
+    }
+  },
+  "umd/history.js": {
+    "bundled": 42593,
+    "minified": 15585,
+    "gzipped": 4633
+  },
+  "umd/history.min.js": {
+    "bundled": 39272,
+    "minified": 12878,
+    "gzipped": 4177
+  },
+  "esm/tgs-history.js": {
+    "bundled": 37698,
+    "minified": 16781,
+    "gzipped": 4323,
+    "treeshaked": {
+      "rollup": {
+        "code": 164,
+        "import_statements": 88
+      },
+      "webpack": {
+        "code": 1214
+      }
+    }
+  },
+  "umd/tgs-history.js": {
+    "bundled": 42593,
+    "minified": 15585,
+    "gzipped": 4633
+  },
+  "umd/tgs-history.min.js": {
+    "bundled": 39272,
+    "minified": 12878,
+    "gzipped": 4177
+  }
+}
